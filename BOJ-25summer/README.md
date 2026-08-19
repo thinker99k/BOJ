@@ -1,0 +1,32 @@
+# BOJ-25summer
+
+<img src="https://raw.githubusercontent.com/thinker99k/BOJ/refs/heads/main/BOJ-25summer/P5.png" width="400px">\
+25.06.21 : 1406 (Gold 1)\
+-> 25.08.31 : 1641 (Platinum 5)
+
+<img src="https://raw.githubusercontent.com/thinker99k/BOJ/refs/heads/main/BOJ-25summer/streak72.png" width="400px">\
+**스트릭 72일(기간 전체)**
+
+## 1. 맞은 문제
+>> 문제번호-
+>
+>> 시도횟수 *(선택적)*
+>
+>> (부가 설명) *(선택적)*
+>
+> .확장자
+
+## 2. 틀린 문제
+>> 문제번호F-
+>
+>> 시도횟수
+>
+>> L/M/T/E
+>>> L : 틀렸습니다\
+>>>M : 메모리 초과\
+>>>T : 시간 초과\
+>>>E : out of bound, nzec 등 런타임 에러
+>
+>> (부가설명) *(선택적)*
+>
+>.확장자
